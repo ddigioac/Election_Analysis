@@ -28,7 +28,7 @@ In this analysis I will be completing an election audit of a recent local congre
 
 See overall election result below:
 
-![This is an image]()
+![This is an image](https://github.com/ddigioac/Election_Analysis/blob/8364eff6cc399dc79fafc9474a4faaa0a1cf981d/Election_Results.png)
 
 ## Election-Audit Summary
 
