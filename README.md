@@ -4,7 +4,7 @@
 
 ### Purpose
 
-In this analysis I will be completing an election audit of a recent local congressional election to examine total number of votes cast per candidate and per county to determine which candidate won and which county had the highest voter turnout.
+In this analysis I will be completing an election audit of a recent local congressional election to examine the total number of votes cast per candidate and per county to determine which candidate won and which county had the highest voter turnout.
 
 ## Election-Audit Results
 
@@ -13,7 +13,7 @@ In this analysis I will be completing an election audit of a recent local congre
 - The county results were:
 	- Jefferson received 10.5% of the vote and 38,855 number of votes.
 	- Denver received 82.8% of the vote and 306,055 number of votes.
-	- Arapahoe received 6.7% fo the vote and 11,606 number of votes.
+	- Arapahoe received 6.7% of the vote and 24,801 number of votes.
   
 - The county with the largest number of votes:
 	- Denver who received 82.8% of the votes and 306,055 total number of votes.
